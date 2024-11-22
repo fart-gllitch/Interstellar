@@ -172,9 +172,9 @@ document.addEventListener("DOMContentLoaded", event => {
 });
 // Splash texts
 const SplashT = [
-  "Over 8 Million Users since 2023",
+  "Created yesterday",
   "Fastest growing proxy server",
-  "Made by xBubbo",
+  "Made by aj",
   "Check out discord.gg/interstellar :)",
   "Thanks for using the site",
   "Follow us on Tiktok (@useinterstellar)",
